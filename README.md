@@ -27,7 +27,7 @@ Supplier Price Tracker is a web application designed to help businesses track an
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/juma352/supplier-price-tracker.git
    cd supplier-price-tracker
    ```
 
